@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.div.container {
+    padding-right: 1000px;
+    padding-left: 1000px;
+    max-width: 720px;
+}
+
+.btn-space{
+    margin-right: 7px;
+}
+
+.btn-outline-primary{
+    border-color: black !important;
+    color:black !important;
+    
+}
+
+.btn-outline-primary:hover{
+    border-color: black !important;
+    background-color: rgb(218, 212, 212) !important;
+}
+
+/* .my_container{
+    float: left;
+    margin: 30px auto;
+    position: relative;
+    background-color: gray;  
+}
+
+#input[type="file"] {
+	display: none;
+}
+
+.result{
+    min-height: 100%;
+    max-height: auto;
+    width: 100%;
+    background-color: #272c34;
+    margin-top:1rem ;
+     display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: left; 
+    
+  }
+    div {
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+}
+  img{
+    width: 320px;
+    height: 180px;
+    object-fit: cover;
+    padding: 0.75rem;
+    
+  } */
+
+/* div.result{
+    border: 5px solid black;
+    width: 80%;
+} */
+  
+  #input[type="file"] {
+	display: none;
+  }
+
+.result{
+    margin: 30px auto;
+    width: 120%;
+    background-color: #dae2ee;
+    margin-top:1rem ;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: left; 
+    
+  }
+
+/* img{
+    width: 320px;
+    height: 180px;
+    object-fit: cover;
+    padding: 0.75rem;
+}  */
